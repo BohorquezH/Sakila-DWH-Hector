@@ -19,4 +19,4 @@
             ON inventory.store_id = dim_store.store_id
 LIMIT 10;
 
-Prueba
+
