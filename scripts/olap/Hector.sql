@@ -18,3 +18,5 @@
         LEFT JOIN sakila_datawh.dim_store as dim_store
             ON inventory.store_id = dim_store.store_id
 LIMIT 10;
+
+Prueba
